@@ -24,9 +24,9 @@ matplotlib==3.9.2
 mdurl==0.1.2
 mplfinance==0.12.10b0
 nltk==3.9.1
-numpy>=1.23,<2
+numpy==1.26.4        # ✅ pinned to last 1.x wheel (no source build)
 packaging==24.1
-pandas==2.2.1
+pandas==2.2.2        # ✅ bumped from 2.2.1 → stable wheel for Py3.11
 pandas-datareader==0.10.0
 pillow==10.4.0
 protobuf==5.28.0
