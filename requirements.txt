@@ -61,3 +61,4 @@ urllib3==2.2.2
 watchdog==4.0.2
 wcwidth==0.2.13
 wordcloud==1.9.3
+yfinance==0.2.43
