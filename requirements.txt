@@ -24,9 +24,9 @@ matplotlib==3.9.2
 mdurl==0.1.2
 mplfinance==0.12.10b0
 nltk==3.9.1
-numpy==2.1.0
+numpy>=1.23,<2
 packaging==24.1
-pandas==2.2.2
+pandas==2.2.1
 pandas-datareader==0.10.0
 pillow==10.4.0
 protobuf==5.28.0
